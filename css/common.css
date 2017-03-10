@@ -1,0 +1,49 @@
+/*专门存放公共样式*/
+.pull-left{
+    float: left!important;
+}
+.pull-right{
+    float: right!important;
+}
+.clearfix{
+    overflow: hidden;
+    clear: both;
+}
+
+
+.container{
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clear-border-top{
+    border-top: none!important;
+}
+.clear-border-right{
+    border-right: none!important;
+}
+
+.clear-border-bottom{
+    border-bottom: none!important;
+}
+.clear-border-left{
+    border-left: none!important;
+}
+
+
+
+.clear-margin-top{
+    margin-top: 0!important;
+}
+.clear-margin-right{
+    margin-right: 0!important;
+}
+
+.clear-margin-bottom{
+    margin-bottom: 0!important;
+}
+.clear-margin-left{
+    margin-left: 0!important;
+}
+
